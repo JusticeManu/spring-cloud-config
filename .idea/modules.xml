@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-master/insurance-client/insurance-client.iml" filepath="$PROJECT_DIR$/spring-cloud-config-master/insurance-client/insurance-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-master/insurance-config-server/insurance-config-server.iml" filepath="$PROJECT_DIR$/spring-cloud-config-master/insurance-config-server/insurance-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-master/insurance-provider/insurance-provider.iml" filepath="$PROJECT_DIR$/spring-cloud-config-master/insurance-provider/insurance-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-config-master.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-config-master.iml" />
+    </modules>
+  </component>
+</project>
